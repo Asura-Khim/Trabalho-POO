@@ -1,0 +1,3 @@
+interface AparelhoReproduzivel {
+    void reproduzir();
+}
